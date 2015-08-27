@@ -3,12 +3,16 @@
 		"author": "Arjen van Bochoven"
 	},
 	"admin": {
+		"bu": {
+			"more_info": "Mehr Informationen"
+		},
 		"bu_overview": "Geschäftsbereiche",
 		"delete_failed": "Löschen fehlgeschlagen: ",
 		"edit_bu": {
 			"title": "Geschäftsbereiche editieren",
 			"name": "Name des Geschäftsbereiches",
 			"address": "Adresse"
+			"link": "Link (zu externer Website)",
 		},
 		"edit_mg": {
 			"title": "Computergruppen editieren"
@@ -69,6 +73,7 @@
 		"managers": "Managers",
 		"users": "Benutzer"
 	},
+	"buildversion": "Build Version",
 	"caching": {
 		"bytes_served": "CachingServer – Übertragene Bytes",
 		"from_origin": "Herkunft",
@@ -76,6 +81,7 @@
 		"from_cache": "Aus dem Cache"
 	},
 	"client": {
+		"comment": "Kommentare",
 		"tab": {
 			"apple_software": "Apple Software",
 			"ard": "ARD",
@@ -271,7 +277,7 @@
 	},
 	"pending": "Ausstehend",
 	"path": "Pfad",
-	"reg_date": "Registratierungsdatum",
+	"reg_date": "Registrierungsdatum",
 	"remote_control": "Fernsteuerung",
 	"report": {
 		"generate": "Bericht erzeugen"
